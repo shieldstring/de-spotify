@@ -15,7 +15,12 @@ function Sidebar() {
             <SidebarOption Icon={LibraryMusicIcon}title="Your Library" />
             <strong className="sidebar_title">PLAYLISTS</strong>
             <hr />
-        </div>
+
+            <SidebarOption title='Hip hop' />
+            <SidebarOption title='Rock' />
+            <SidebarOption title='RnB' />
+
+        </div> 
     );
 }
 
