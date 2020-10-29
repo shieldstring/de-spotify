@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features:
+<ul>
+  <li>User authentication with Spotify Api.</li>
+  <li>Spotify Api.</li>
+  <li>Responsive Design.</li>
+  <li>Material UI for icons</li>
+  <li>Redux(React content Api)</li>
+  <li>Modern Tech</li>
+  <li>React hooks Functionality(Hooks, State).</li>
+  <li>This project is an entire React Tech Stack.</li>
+</ul>
+
 ## Available Scripts
 
 In the project directory, you can run:
